@@ -1,0 +1,27 @@
+{
+  "name": "good-ia-source-image-probable-def",
+  "version": "1.0.0",
+  "description": "A probablility table definition (for [probable](https://github.com/jimkang/probable)) that yields Internet Archive search params that get decently interesting images for use in art image apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimkang/good-ia-source-image-probable-def.git"
+  },
+  "keywords": [
+    "probability",
+    "internetarchive",
+    "search"
+  ],
+  "author": "Jim Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimkang/good-ia-source-image-probable-def/issues"
+  },
+  "homepage": "https://github.com/jimkang/good-ia-source-image-probable-def",
+  "devDependencies": {
+  },
+  "dependencies": {}
+}
